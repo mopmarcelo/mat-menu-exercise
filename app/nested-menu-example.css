@@ -1,0 +1,10 @@
+body {
+  display: table-caption !important;
+}
+button {
+  width: 113.6px;
+  text-align: left;
+}
+::ng-deep .mat-menu-panel {
+  margin-left: 113.6px !important;
+}
